@@ -1,9 +1,14 @@
 h1 {
     color: blue;
-    background color: yellow;
+    background-color: yellow;
 }
 
 p {
-    color green;
+    color: green;
     background-color: yellowgreen;
+}
+
+h2 {
+    background: red;
+    color: whitesmoke;
 }
